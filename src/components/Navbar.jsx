@@ -1,4 +1,3 @@
-import logo from "../assets/logo.png"
 import { navItems } from "../constants"
 import { Menu, X } from "lucide-react"
 import { useState } from "react"
@@ -16,7 +15,7 @@ const Navbar = () => {
             <div className="container px-4 mx-auto relative text-sm">
                 <div className="flex justify-between items-center">
                     <div className="flex items-center flex-shrink">
-                        <img className="h-10 w-10 mr-2" src={logo} alt="" />
+
                         <span className="text-xl tracking-tight">YourBrand</span>
                     </div>
 

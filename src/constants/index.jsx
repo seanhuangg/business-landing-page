@@ -22,39 +22,39 @@ export const navItems = [
 export const testimonials = [
   {
     user: "John Doe",
-    company: "Stellar Solutions",
+    company: "Company",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rutrum dictum turpis non bibendum. Maecenas orci augue, aliquam et mi eget, condimentum semper est.",
   },
   {
     user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    company: "Company",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "Praesent eget mollis leo. Proin fringilla orci elit, vitae consectetur ex euismod sed. Duis sit amet purus lacus. Aliquam erat volutpat.",
   },
   {
     user: "David Johnson",
-    company: "Quantum Innovations",
+    company: "Company",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "Pellentesque sed nisi turpis. Aliquam erat volutpat. Ut luctus scelerisque viverra. Vivamus ornare consequat felis, iaculis suscipit eros varius et.",
   },
   {
     user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    company: "Company",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Quisque in dolor vel turpis gravida placerat. Quisque vestibulum sapien sit amet pulvinar venenatis. Donec gravida felis in mollis dapibus. Nunc quis purus diam",
   },
   {
     user: "Michael Wilson",
-    company: "Visionary Creations",
+    company: "Company",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "Praesent tellus lectus, posuere molestie lorem id, luctus hendrerit nibh. Nam ut risus turpis. Aliquam erat volutpat. Sed tellus enim, dapibus sollicitudin tellus et, tincidunt mollis nulla. ",
   },
   {
     user: "Emily Davis",
-    company: "Synergy Systems",
+    company: "Company",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "Ut sit amet lorem tincidunt, malesuada arcu ac, dapibus odio. Nulla iaculis dignissim rutrum. Vivamus volutpat congue enim, blandit venenatis sapien facilisis eget. Suspendisse libero odio, dignissim non rutrum quis, rutrum nec tellus.",
   },
 ];
 
@@ -156,23 +156,18 @@ export const pricingOptions = [
 export const resourcesLinks = [
   { href: "#", text: "Getting Started" },
   { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
-];
-
-export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Book an Appointment" },
 ];
 
 export const communityLinks = [
   { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Support" },
+  { href: "#", text: "Leave a Review" },
+];
+
+export const contactInfo = [
+  { href: "#", text: "sean.huang16@hotmail.com" },
+  { href: "#", text: "647-631-0882" },
+  { href: "#", text: "Toronto, ON, Canada" },
+
 ];
